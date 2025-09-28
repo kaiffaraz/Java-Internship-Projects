@@ -18,4 +18,5 @@ It runs in a loop, allowing multiple calculations until the user chooses to exit
 
 ## 📸 Sample Output
 
-![Java_Calculator_Output]([https://github.com/kaiffaraz/Library-Management/blob/main/Library%20Management%20Opt.png?raw=true](https://github.com/kaiffaraz/Java-Internship-Projects/blob/main/Java_Calculator/java_calc_otpt.png))
+![Calculator Output](https://github.com/kaiffaraz/Java-Internship-Projects/blob/main/Java_Calculator/java_calc_otpt.png?raw=true)
+
