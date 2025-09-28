@@ -1,21 +1,32 @@
-# Java Console Calculator
+#  Java Internship Projects
 
-A simple console-based calculator built in Java using `Scanner` for user input.  
-This calculator supports addition, subtraction, multiplication, and division operations.  
-It runs in a loop, allowing multiple calculations until the user chooses to exit.
+This repository contains all the tasks completed during my **Java Developer Internship**.  
+Each task is inside its own folder with code, README, and screenshots.  
 
 ---
 
-## Features
-- Perform Addition
-- Perform Subtraction
-- Perform Multiplication
-- Perform Division (with division by zero check)
-- Interactive menu-driven interface
-- Runs in a loop until you select Exit
-- Easy to run in any IDE or terminal
+##  Projects
 
+###  [Task 1 – Student Management System](./Task1_StudentManagement)
+- CRUD operations (Add, View, Update, Delete) for students  
+- Uses **ArrayList, Classes, Encapsulation**  
 
-## 📸 Sample Output
+###  [Task 2 – First Repeated Element](./Task2_FirstRepeatedElement)
+- Program to find the **first repeated positive number** in an array  
+- Handles special conditions (ignore negative/zero)  
 
-![Java_Calculator_Output]([https://github.com/kaiffaraz/Library-Management/blob/main/Library%20Management%20Opt.png?raw=true](https://github.com/kaiffaraz/Java-Internship-Projects/blob/main/Java_Calculator/java_calc_otpt.png))
+###  [Task 3 – Library Management System](./Task3_LibraryManagement)
+- Manage Books & Users  
+- Features: Add, View, Issue, Return  
+- Demonstrates **OOP concepts: Abstraction, Inheritance, Polymorphism**  
+
+---
+
+##  Tools Used
+- Java  
+- VS Code / IntelliJ  
+- Git & GitHub  
+
+---
+
+👨‍💻 **All tasks done as part of Internship Program**
