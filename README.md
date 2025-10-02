@@ -26,13 +26,24 @@ Each task is inside its own folder with code, README, and screenshots.
 - Implements **Java File I/O (FileReader, FileWriter, BufferedReader)** with exception handling  
 - Demonstrates **append vs overwrite modes**  
 
+### [Task 5 – Bank Account Simulation](./Task5_BankAccount)
+- Simulates **basic banking operations** (Deposit, Withdraw, Balance Check, Transaction History)  
+- Implements **Classes, Inheritance, Method Overriding**  
+- Focuses on **real-world OOP applications** in Java  
+
+### [Task 6 – ToDo App (Java Swing GUI)](./Task6_ToDoApp)
+- A desktop **To-Do List application** using **Java Swing**  
+- Features: Add Task, Delete Task  
+- Demonstrates **GUI programming, event handling, and layout managers**  
+- Uses **JFrame, JButton, JTextField, JPanel** for building the interface  
+
 ---
 
 ## Tools Used
 - Java  
-- VS Code / IntelliJ  
+- VS Code / IntelliJ / Eclipse  
 - Git & GitHub  
 
 ---
 
- **All tasks done as part of Internship Program**
+ **All tasks done as part of Internship Program**  
