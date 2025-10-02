@@ -30,13 +30,6 @@ It demonstrates **Object-Oriented Programming (OOP)** concepts such as **classes
 
 ---
 
-🌟 Advantages of This Model
-
-✔️ Easy to Use – Simple menu-driven interface, suitable for beginners.
-✔️ Practical Banking Simulation – Mimics real-world deposit, withdrawal, and balance check features.
-✔️ Transaction History – Keeps a clear record of all activities for transparency.
-✔️ Encapsulation & Security – Protects balance data using OOP principles.
-✔️ Extensible – Can be easily extended to support multiple accounts, interest rates, or file/database storage.
-✔️ Educational Value – Great for learning Java OOP, user input handling, and menu-driven programs.
-
+## Output
+![Output]([https://github.com/kaiffaraz/Java-Internship-Projects/blob/main/LibraryManagement/Library%20Management%20Opt.png?raw=true](https://github.com/kaiffaraz/Java-Internship-Projects/blob/main/BankAC_Simulation/BankApp%20Opt.png))
 
