@@ -31,5 +31,5 @@ It demonstrates **Object-Oriented Programming (OOP)** concepts such as **classes
 ---
 
 ## Output
-![Output]((https://github.com/kaiffaraz/Java-Internship-Projects/blob/main/BankAC_Simulation/BankApp%20Opt.png))
+![BankApp.opt]((https://github.com/kaiffaraz/Java-Internship-Projects/blob/main/BankAC_Simulation/BankApp%20Opt.png))
 
