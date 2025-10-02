@@ -21,5 +21,6 @@ It allows users to **add and delete tasks** in a simple GUI interface.
 
 ---
 
-##Output:
+## Output:
+
 ![ToDo Output](https://github.com/kaiffaraz/Java-Internship-Projects/blob/main/ToDoApp/Todo.opt.png?raw=true)
