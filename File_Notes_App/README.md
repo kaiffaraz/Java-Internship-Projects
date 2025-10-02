@@ -35,5 +35,3 @@ This project demonstrates **Java I/O (Input/Output), File Handling, and Menu-dri
 
 ## Output:
 ![Output](https://github.com/kaiffaraz/Java-Internship-Projects/blob/main/File_Notes_App/Notes%20App%20Output.png?raw=true)
-
-## 📂 Project Structure  
